@@ -1,8 +1,10 @@
 # GN_CELL
+![logo-os](https://github.com/MustaJr/GN_CELL/assets/115131012/1cebb2b0-ec75-4e5d-a3ff-72d5d9077224)
 
 ##SISTEMA DE SERVIÇOS DE ASSISTENCIA DE  ELETRONICOS 
 
 ##fUNCÇÕES
+
 
 
   -EMISSÃO DE OS
